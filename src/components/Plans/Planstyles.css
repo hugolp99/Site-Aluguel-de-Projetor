@@ -1,0 +1,129 @@
+.plan1 {
+    flex: 1;
+    min-width: 300px;
+    max-width: 180px;
+    min-height: 480px;
+    box-shadow: 10px 10px 10px 5px rgb(143, 142, 142);
+    margin: 2em auto;
+    border-radius: 10px;
+    padding: 20px 20px 20px 20px;
+}
+
+.plan1 h1 {
+    flex: 1;
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000;
+    text-shadow: 1px 1px 4px #000;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    background-image: url('../../assets/Images/banner.png');
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    min-height: 80px;
+}
+
+.plan1 ul {
+    flex: 1;
+    color: rgb(77, 77, 77);
+    font-weight: bold;
+    list-style-type: none;
+    font-size: 20px;
+}
+
+.plan1 span {
+    color: rgb(204, 2, 2);
+    -webkit-text-stroke-width: 0.8px;
+    -webkit-text-stroke-color: #000;
+}
+
+.price {
+    color: #EFCB58;
+    font-size: 40px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000;
+}
+
+.price span {
+    color: #EFCB58;
+    font-size: 15px;
+}
+
+.plan2 {
+    flex: 1;
+    min-width: 300px;
+    max-width: 180px;
+    min-height: 480px;
+    box-shadow: 10px 10px 10px 5px rgb(143, 142, 142);
+    margin: 2em auto;
+    border-radius: 10px;
+    padding: 20px 20px 20px 20px;
+}
+
+.plan2 h1 {
+    flex: 1;
+    color: #EFCB58;
+    font-size: 30px;
+    font-weight: bold;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000;
+    text-shadow: 1px 1px 4px #000;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    background-image: url('../../assets/Images/banner.png');
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    min-height: 80px;
+}
+
+.plan2 span {
+    color: green;
+    -webkit-text-stroke-width: 0.8px;
+    -webkit-text-stroke-color: #000;
+}
+
+.plan3 {
+    flex: 1;
+    min-width: 300px;
+    max-width: 180px;
+    min-height: 480px;
+    box-shadow: 10px 10px 10px 5px rgb(143, 142, 142);
+    margin: 2em auto;
+    border-radius: 10px;
+    padding: 20px 20px 20px 20px;
+}
+
+.plan3 h1  {
+    flex: 1;
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: #000;
+    text-shadow: 1px 1px 4px #000;
+    text-align: center;
+    padding: 20px 20px 20px 20px;
+    background-image: url('../../assets/Images/projetor.png');
+    background-position: center;
+    background-size: cover;
+    border-radius: 10px;
+    border: 2px solid rgb(143, 142, 142);
+    min-height: 220px;
+}
+
+.plan3 p {
+    color: rgb(77, 77, 77);
+    font-size: 20px;
+    -webkit-text-stroke-width: 0px;
+    -webkit-text-stroke-color: rgb(77, 77, 77);
+}
+
+.tax {
+    color: rgb(204, 2, 2);
+    -webkit-text-stroke-width: 0.8px;
+    -webkit-text-stroke-color: #000;
+}
